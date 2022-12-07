@@ -38,3 +38,5 @@
 *
 * With graphics iGPU - SMBIOS iMac15,1
 * Without graphics iGPU - SMBIOS MacPro7,1
+*
+* WI-FI + Bluetooth - FV-HB1200 - For this hardware I will leave the AirportBrcmFixup.kext as well as the option in the bootloader "ExtendBTFeatureFlags". If you do not have this equipment or it is different - see various instructions on the Internet for proper configuration
